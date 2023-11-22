@@ -1,4 +1,5 @@
 {
     "editor.fontSize": 19,
-    "terminal.integrated.fontSize": 16
+    "terminal.integrated.fontSize": 16,
+    "cppbuild.isEnabled": false
 }
