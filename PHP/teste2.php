@@ -4,7 +4,6 @@ Plugin Name: Meu Plugin de Relatório de Registros
 Description: Adiciona um comando WP-CLI para imprimir um relatório de histórico de registros.
 */
 
-// Função para imprimir o relatório de registros
 function imprimir_relatorio_registros() {
     global $wpdb;
     $tabela = $wpdb->prefix . 'registros'; // Nome da tabela no banco de dados
